@@ -82,6 +82,7 @@
     </Compile>
     <None Include="Readme.md" />
     <None Include="StudentGuide.md" />
+    <None Include="Testing_Report.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

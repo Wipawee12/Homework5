@@ -1,6 +1,6 @@
-# Testing Report (รายงานการทดสอบ)
+# Testing Report 
 
-## Project (โครงการ)
+## Project 
 
 Text/CSV Viewer
 
@@ -29,10 +29,10 @@ Text/CSV Viewer
 
 ---
 
-## Test Environment (สภาพแวดล้อมในการทดสอบ)
+## Test Environment 
 
 - Operating System : Windows 10
-- IDE : Visual Studio 2022
+- IDE : Visual Studio 
 - Programming Language : C#
 - Framework : Windows Forms
 - Dataset : MalwareBazaar Full CSV
@@ -41,7 +41,7 @@ Text/CSV Viewer
 
 ## Result Summary (สรุปผลการทดสอบ)
 
-ผลการทดสอบพบว่า
+
 
 - โปรแกรมสามารถโหลดไฟล์ CSV ขนาดใหญ่ได้
 - โปรแกรมสามารถโหลดข้อมูลเฉพาะช่วง (Partial Loading) ได้ถูกต้อง
